@@ -1,0 +1,44 @@
+{
+    "title": "CLDF Dataset derived from Syrj\u00e4nen et al.'s \"Shedding more light on language classification\" from 2013",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Syrj\u00e4nen, Kaj"
+        },
+        {
+            "name": "Honkola, Terhi"
+        },
+        {
+            "name": "Korhonen, Kalle"
+        },
+        {
+            "name": "Lehtinen, Jyri"
+        },
+        {
+            "name": "Vesakoski, Outi"
+        },
+        {
+            "name": "Wahlber, Niklas"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Syrj\u00e4nen, K.; Honkola, T.; Korhonen, K.; Lehtinen, J.; Vesakoski, O. &amp;amp; Wahlber, N. Shedding more light on language classification using basic vocabularies and phylogenetic methods. Diachronica, 2013, 30, 323-352</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
