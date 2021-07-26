@@ -1,8 +1,16 @@
 # CLDF Dataset derived from Syrjänen et al.'s "Shedding more light on language classification" from 2013
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/syrjaenenuralic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/syrjaenenuralic/actions?query=workflow%3ACLDF-validation)
 
-> Syrjänen, K.; Honkola, T.; Korhonen, K.; Lehtinen, J.; Vesakoski, O. &amp; Wahlber, N. Shedding more light on language classification using basic vocabularies and phylogenetic methods. Diachronica, 2013, 30, 323-352
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Syrjänen, K.; Honkola, T.; Korhonen, K.; Lehtinen, J.; Vesakoski, O. &amp; Wahlber, N. Shedding more light on language classification using basic vocabularies and phylogenetic methods. Diachronica, 2013, 30, 323-352
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-By-4.0 license
 
@@ -20,6 +28,7 @@ This dataset was used as a gold standard benchmark in the study of List et al. (
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/syrjaenenuralic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/syrjaenenuralic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -40,14 +49,21 @@ This dataset was used as a gold standard benchmark in the study of List et al. (
 
 # Contributors
 
-Name               | GitHub user | Descriptin |Role
+Name               | GitHub user | Description |Role
 ---                | ---         | --- | ---
-Johann-Mattis List | @LinguList  | maintainer | Other 
-Syrjänen, Kaj   | | data collection | Author 
-Honkola, Terhi  | | data collection | Author 
-Korhonen, Kalle | | data collection | Author 
-Lehtinen, Jyri  | | data collection | Author  
-Vesakoski, Outi | | data collection | Author  
-Wahlber, Niklas | | data collection | Author 
+Johann-Mattis List | @LinguList  | maintainer | Other
+Syrjänen, Kaj   | | data collection | Author
+Honkola, Terhi  | | data collection | Author
+Korhonen, Kalle | | data collection | Author
+Lehtinen, Jyri  | | data collection | Author
+Vesakoski, Outi | | data collection | Author
+Wahlber, Niklas | | data collection | Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
