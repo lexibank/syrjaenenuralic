@@ -35,8 +35,8 @@ This dataset was used as a gold standard benchmark in the study of List et al. (
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 7
-- **Concepts:** 173
+- **Varieties:** 7 (linked to 7 different Glottocodes)
+- **Concepts:** 173 (linked to 173 different Concepticon concept sets)
 - **Lexemes:** 1,401
 - **Sources:** 1
 - **Synonymy:** 1.18
@@ -44,14 +44,14 @@ This dataset was used as a gold standard benchmark in the study of List et al. (
 - **Cognate Diversity:** 0.57
 - **Invalid lexemes:** 0
 - **Tokens:** 6,740
-- **Segments:** 71 (0 BIPA errors, 0 CTLS sound class errors, 71 CLTS modified)
+- **Segments:** 71 (0 BIPA errors, 0 CLTS sound class errors, 71 CLTS modified)
 - **Inventory size (avg):** 35.86
 
 # Contributors
 
 Name               | GitHub user | Description |Role
 ---                | ---         | --- | ---
-Johann-Mattis List | @LinguList  | maintainer | Other
+Johann-Mattis List | @LinguList  | maintainer | Editor
 Syrjänen, Kaj   | | data collection | Author
 Honkola, Terhi  | | data collection | Author
 Korhonen, Kalle | | data collection | Author

@@ -2,7 +2,7 @@
 
 Name               | GitHub user | Description |Role
 ---                | ---         | --- | ---
-Johann-Mattis List | @LinguList  | maintainer | Other
+Johann-Mattis List | @LinguList  | maintainer | Editor
 Syrjänen, Kaj   | | data collection | Author
 Honkola, Terhi  | | data collection | Author
 Korhonen, Kalle | | data collection | Author
